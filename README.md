@@ -15,7 +15,7 @@
 <h3 align="center">Fooder frontend application</h3>
 
   <p align="center">
-    project_description
+    A simple food booking application with admin functionality
     <br />
     <a href="https://github.com/BotanicalCoder/fooder-frontend/"><strong>Explore the docs »</strong></a>
     <br />
@@ -103,7 +103,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/botanicalcoder/fooder-frontend.git
    ```
 2. Install NPM packages
    ```sh
