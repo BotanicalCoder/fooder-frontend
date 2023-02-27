@@ -134,8 +134,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [ ] Set up project
     - [ ] Download image assets
-- [ ] Set up routing
-    - [ ] Create all neccesary page files
+- [*] Set up routing
+    - [*] Create all neccesary page files
 - [ ] Set up auth
     - [ ] Create a hoc for authentication
     - [ ] Create login file
